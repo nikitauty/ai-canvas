@@ -27,7 +27,7 @@ share/python-wheels/
 MANIFEST
 
 dataset.txt
-tech-secs.docs
+tech-specs.docs
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
