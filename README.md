@@ -6,3 +6,5 @@
   - React
 - BackEnd
   - Python
+
+<h2 align="left">Use on canvas.nkutech.ru</h2>
