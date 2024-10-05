@@ -7,4 +7,6 @@
 - BackEnd
   - Python
 
-<h2 align="left">Use on canvas.nkutech.ru</h2>
+<h2 align="left">Use on</h2>
+
+- Site: canvas.nkutech.ru
